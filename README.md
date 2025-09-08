@@ -38,7 +38,7 @@ It is written for Windows 10/11 users who use Docker Desktop with WSL 2 backend.
 * Windows 10 Pro 22H2 (build OS Build 19045.6282)
 * CPU: Intel Core i5-6300U (supports VT-x)
 * WSL: initially v1 → upgraded to WSL 2
-* Docker Desktop: (record the installed version)
+* Docker Desktop: 4.45.0
 * Distro: Ubuntu-22.04 
 * Network: note if you encountered issues over a mobile MiFi (ISP) and that a switch to a different ISP fixed downloads
 
