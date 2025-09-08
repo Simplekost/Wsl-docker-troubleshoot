@@ -20,7 +20,14 @@ This repo documents reproducible steps, commands, screenshots and recommended wo
 
 * `wsl --update` hangs at `0.0%` during update
 * Docker Desktop repeatedly shows **"WSL needs updating"** and **Engine stopped**
+  ![WSL & Docker update screenshot](screenshots/Wsl-docker-update.jpeg)
+
+[View full-size image](screenshots/Wsl-docker-update.jpeg)
+
 * `docker run` or `docker pull` hangs or errors due to DNS/ISP issues (mobile MiFi)
+![screenshots of Network problem](screenshots/Network-problem.jpeg)
+
+[View full-size image](screenshots/Network-problem.jpeg)
 
 It is written for Windows 10/11 users who use Docker Desktop with WSL 2 backend.
 
